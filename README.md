@@ -87,3 +87,8 @@ Ensured Node.js is running behind Nginx, secured with SSL, and managed by PM2.
 📸 Screenshot
 
 ![App Screenshot](Screenshot 2.png)
+
+👩🏽‍💻 Author
+Hope Akpabio
+Cloud Engineer | AltSchool Africa
+📧 futurehopesaviour@gmail.com
